@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{properties.title}}</title>
+  </head>
+  <body>
+    <header></header>
+    <main>
+      <div class="hero">
+        <picture>
+          <img src="{{{properties.elements.bannerimage.value}}}" alt="{{properties.title}}">
+        </picture>
+        <h1>{{properties.elements.title.value}}</h1>
+        <h2>{{properties.elements.subtitle.value}}</h2>
+      </div>
+      <div class="content">
+        <p>{{properties.elements.description.value}}</p>
+        <a href="{{properties.elements.ctaurl.value}}" class="cta-button">
+          {{properties.elements.ctalabel.value}}
+        </a>
+      </div>
+      <footer>
+        <small>
+          Created by: {{properties.createdBy}}<br>
+          Last modified by: {{properties.modifiedBy}}
+        </small>
+      </footer>
+    </main>
+  </body>
+</html>
