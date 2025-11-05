@@ -22,12 +22,12 @@
   ],
   "content": {
     "source": {
-      "url": "https://author-p159983-e1710854.adobeaemcloud.com/bin/franklin.delivery/kritikagoyal18/RefDemoEDS-Dev-Clone/main",
+      "url": "https://author-p159983-e1710854.adobeaemcloud.com/bin/franklin.delivery/kritikagoyal18/kritika-rd-dev/main",
       "type": "markup",
       "suffix": ".html"
     },
     "overlay": {
-      "url": "https://json2html.adobeaem.workers.dev/kritikagoyal18/RefDemoEDS-Dev-Clone/main",
+      "url": "https://json2html.adobeaem.workers.dev/kritikagoyal18/kritika-rd-dev/main",
       "type": "markup"
     },
   }
