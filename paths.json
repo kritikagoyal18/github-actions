@@ -1,0 +1,34 @@
+{
+  "mappings": [
+    "/content/kritika-rd-dev/language-masters/en:/",
+    "/content/kritika-rd-dev/language-masters/en/:/en/",
+    "/content/kritika-rd-dev/language-masters/fr/:/fr/",
+    "/content/kritika-rd-dev/language-masters/fr:/fr",
+    "/content/kritika-rd-dev/language-masters/es/:/es/",
+    "/content/kritika-rd-dev/language-masters/es:/es",
+    "/content/kritika-rd-dev/language-masters/ja/:/ja/",
+    "/content/kritika-rd-dev/language-masters/ja:/ja",
+    "/content/kritika-rd-dev/language-masters/de/:/de/",
+    "/content/kritika-rd-dev/language-masters/de:/de",
+    "/content/kritika-rd-dev/configuration:/.helix/config.json",
+    "/content/kritika-rd-dev/metadata:/metadata.json",
+    "/content/kritika-rd-dev/redirects:/redirects.json",
+    "/content/kritika-rd-dev/placeholders:/placeholders.json",
+    "/content/dam/kritika-rd-dev/en/fragments/promotions/:/promotions/"
+  ],
+  "includes": [
+    "/content/kritika-rd-dev/",
+    "/content/dam/kritika-rd-dev/"
+  ],
+  "content": {
+    "source": {
+      "url": "https://author-p159983-e1710854.adobeaemcloud.com/bin/franklin.delivery/kritikagoyal18/kritika-rd-dev/main",
+      "type": "markup",
+      "suffix": ".html"
+    },
+    "overlay": {
+      "url": "https://json2html.adobeaem.workers.dev/kritikagoyal18/kritika-rd-dev/main",
+      "type": "markup"
+    },
+  }
+}
